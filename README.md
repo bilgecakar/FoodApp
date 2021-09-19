@@ -1,16 +1,14 @@
 # food_app
 
-A new Flutter project.
+Projeye Genel Bakış
 
-## Getting Started
+Foodistic uygulaması kullanıcıların ellerindeki malzemeleri girip onlara uygun yemek tarifleri bulabileceği, bu tarifleri kaydedebileceği ve amatör ya da profosyonel aşçıların uygulamaya kayıt olup yemek tarifleri paylaşabileceği bir uygulama olacaktır. Uygulamanın yapımında Firebase ve Flutter teknolojilerinden yaralanılmıştır.
 
-This project is a starting point for a Flutter application.
+Uygulamanın ekran videosu aşağıdaki gibidir:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/36795459/133937802-1ec3ef1f-1024-46af-a811-bb4c7ace9603.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proje detayı aşağıdaki dökümanda mevcuttur:
+
+[Proje detayı.docx](https://github.com/bilgecakar/FoodApp/files/7192674/Proje.detayi.docx)
